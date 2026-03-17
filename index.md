@@ -1,4 +1,4 @@
-# Privacy Policy for Azurra
+Azurra – Privacy Policy
 
 Last updated: March 17, 2026
 
@@ -108,3 +108,6 @@ We may update this Privacy Policy from time to time. Updates will be posted on t
 If you have any questions about this Privacy Policy, you can contact us at:
 
 Email: [neelpala06@gmail.com](mailto:neelpala06@gmail.com)
+
+Developer: Neel Pala
+GitHub: https://github.com/neelpala28
